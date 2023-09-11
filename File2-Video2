@@ -1,0 +1,25 @@
+# Robot Barista
+
+# print("Hello, welcome to Network Chef Coffee!!!")
+# print("What is your name?")
+
+# name = input("What is your name?\n")
+
+# print("Hello " + name + ", thank you for coming in today")
+
+# name = "John"
+
+# print(name)
+
+# name = "Balls"
+
+# print(name)
+
+print("Hello, I am a Robot Barista\n")
+name = input("What is your name, sir?\n")
+print("Well it's nice to meet you " + name + ", welcome in to this coffeeshop!\n")
+menu = "Black coffee, Espresso, Mocha"
+print("What would you like from our menu?\n\n\n" + menu)
+order = input()
+
+print("Sounds good " + name + ", we'll have that " + order + " coming right up")
