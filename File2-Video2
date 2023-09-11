@@ -22,4 +22,10 @@ menu = "Black coffee, Espresso, Mocha"
 print("What would you like from our menu?\n\n\n" + menu)
 order = input()
 
-print("Sounds good " + name + ", we'll have that " + order + " coming right up")
+price = 8
+coffeeNumber = input("How many coffee's would you like?\n")
+total = price * int(coffeeNumber)
+print("Thank you. Your total is: $" + str(total))
+
+print("Sounds good " + name + ", we'll have your " + coffeeNumber + order + " coming right up")
+
