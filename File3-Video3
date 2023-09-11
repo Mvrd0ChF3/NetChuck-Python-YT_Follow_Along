@@ -1,0 +1,14 @@
+name = "John"
+age = 28
+actual_age = 28.5
+math = 5 * 2
+
+results = age + actual_age + math
+print(results)
+print(type(math))
+
+price = 8
+print("How many coffee's would you like?")
+
+coffeeNumber = input()
+print("Thank you, sir. That'll be " + (coffeeNumber + price) "dollars, please.")
