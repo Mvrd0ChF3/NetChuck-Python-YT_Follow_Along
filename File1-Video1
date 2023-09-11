@@ -1,0 +1,14 @@
+# print("Hello World!!!"),
+# print('I am iron man'),
+# print("no, i am Poppy"),
+# Test I am writing words
+
+# print (
+#    """I am Iron Man
+#    No I am iron man
+#    Test balls"""
+# )
+
+print("Test\n" + "No wayyy\n" + "balls\n")
+
+print("I am gay\n" * 100)
